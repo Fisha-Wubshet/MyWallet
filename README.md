@@ -1,16 +1,20 @@
-# my_wallet
+# 💰 Personal Finance Tracker
 
-A new Flutter project.
+A simple and elegant **Personal Finance Tracker** built with **Flutter**, using `sqflite` for local storage and `Riverpod` for state management.  
+This app allows users to **add transactions**, **view monthly summaries**, and **compare net balance with previous months** — all offline.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Add income and expense transactions  
+- 📅 View transaction list for the **current month**  
+- 📊 Monthly summary with **charts**  
+- 📉 Compare current month net balance with previous month  
+- 🪄 Dropdown selector to view previous months  
+- 💾 Offline storage using `sqflite`  
+- 🧠 State management with `Riverpod`  
+- 🌙 Clean and minimal UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
